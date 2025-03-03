@@ -1,4 +1,4 @@
-// Peter Idestam-Almquist, 2023-02-26.
+// Galagamage Dilmi Nadisha Wickramarathna
 
 package paradis.assignment2;
 
